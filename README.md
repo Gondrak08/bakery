@@ -1,2 +1,3 @@
-# js-cart-setup
-ADD ITEMS TO CART JAVASCRIPT PROJECT
+# A bakery website.
+
+A responsive webapp made with bootstrap/css and jscript. 
